@@ -2,6 +2,11 @@
 
 Track **Earthquakes in Real Time** and explore **recent and historic seismic activity worldwide**. This project helps visualize earthquake data to understand **geographical distribution, frequency, magnitude, depth,** and **temporal patterns**.
 
+### Live Demo
+
+https://github.com/user-attachments/assets/37817e47-89b4-445a-8a01-7b24432fef7a
+
+
 ## 🚀 Features
 
 - **Real-time Data:** Fetches the latest earthquake data from the [USGS Earthquake API](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson).  
