@@ -1,0 +1,5 @@
+svg:focus, 
+.recharts-pie:focus,
+.recharts-sector:focus {
+    outline: none;
+}
